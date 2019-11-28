@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "amttgroup\\foxyYii2Covert\\" : "src"
+            "kriss\\foxyYii2Covert\\" : "src"
         }
     },
     "extra": {
